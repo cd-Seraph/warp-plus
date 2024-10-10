@@ -15,7 +15,7 @@ on:
     - cron: '0 */6 * * *'  # Run every 6 hours
 
 env:
-  REFERRER_ID: l321C9Wk-a52qZ47P-0WI85k7A
+  REFERRER_ID: 5a324c2c-a512-4a32-bf8e-5a7989f135ef
 
 jobs:
   run-warp-plus:
